@@ -1,3 +1,3 @@
 import Dabooty from Latino
 
-print("yeeeeet")
+print("yeeaeeet")
